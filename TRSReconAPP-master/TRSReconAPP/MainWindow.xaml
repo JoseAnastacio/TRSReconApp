@@ -16,7 +16,7 @@
         <DatePicker HorizontalAlignment="Left" Margin="17,10,0,0" VerticalAlignment="Top" Grid.Column="1" Height="24" Width="102"/>
         <DatePicker HorizontalAlignment="Left" Margin="17,49,0,0" VerticalAlignment="Top" Grid.Column="1" Height="24" Width="102"/>
         <Label Content="Date From:&#xD;&#xA;" HorizontalAlignment="Left" Margin="16,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="42" Width="68"/>
-        <Label Content="Date To:&#xA;" HorizontalAlignment="Left" Margin="16,48,0,0" VerticalAlignment="Top" Height="42" Width="53"/>
+        <Label Content="Date To&#xD;&#xA;&#xA;" HorizontalAlignment="Left" Margin="16,48,0,0" VerticalAlignment="Top" Height="42" Width="53"/>
         <Button x:Name="btnViewToGrid" Content="View to Grid" HorizontalAlignment="Left" Margin="16,87,0,0" VerticalAlignment="Top" Width="75" Grid.ColumnSpan="2" Height="20"/>
         <Button x:Name="btnViewToGrid_Copy" Content="Export to Excel" HorizontalAlignment="Left" Margin="483,0,0,0" VerticalAlignment="Top" Width="107" Height="20" Grid.Column="2" Click="btnViewToGrid_Copy_Click"/>
 
